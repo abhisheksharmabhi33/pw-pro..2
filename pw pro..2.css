@@ -1,0 +1,22 @@
+.nav{
+    background-color: #2bc3e2;
+    display:flex;
+}
+
+li{
+    display:inline-block;
+    align-items: center;
+    margin: 10px;
+    font-weight: bold;
+    
+}
+button{
+    background-color: #04fa4a;
+    color: #0d0d0d;
+}
+   /* done navbaar */
+   /* main contant */
+
+
+
+
